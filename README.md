@@ -12,6 +12,14 @@
 
 ## Install
 
+### Method 1 - Bower
+
+  ```bash
+  bower install x-sarcasm
+  ```
+
+### Method 2 - Polymer
+
 1. Polyfill Web Components support for older browsers:
 
   ```xml
