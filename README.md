@@ -18,7 +18,13 @@
   bower install x-sarcasm
   ```
 
-### Method 2 - Polymer
+### Method 2 - npm
+
+  ```bash
+  npm install x-sarcasm
+  ```
+
+### Method 3 - Polymer
 
 1. Polyfill Web Components support for older browsers:
 
