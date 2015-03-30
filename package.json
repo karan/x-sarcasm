@@ -1,0 +1,11 @@
+{
+    "name": "x-sarcasm",
+    "version": "0.0.3",
+    "description": "<x-sarcasm></x-sarcasm>",
+    "keywords": [
+        "web-component",
+        "web-components",
+        "polymer",
+        "sarcasm"
+    ]
+}

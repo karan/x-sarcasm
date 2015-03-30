@@ -3,8 +3,8 @@
 
 \<sarcasm\>\</sarcasm\>
 
-| [Documentation](http://karan.github.io/x-sarcasm/) | [Live demo](http://karan.github.io/x-sarcasm/components/x-sarcasm/demo.html) |
-| --- | --- |
+| [Live Demo](http://karan.goel.io/x-sarcasm/demo.html) |
+| --- |
 
 ## Examples
 
@@ -12,11 +12,19 @@
 
 ## Install
 
-### Method 1 - bower
+### Method 1 - Bower
 
-    bower install x-sarcasm
+  ```bash
+  bower install x-sarcasm
+  ```
 
-### Method 2 - Polymer
+### Method 2 - npm
+
+  ```bash
+  npm install x-sarcasm
+  ```
+
+### Method 3 - Polymer
 
 1. Polyfill Web Components support for older browsers:
 
