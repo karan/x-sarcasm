@@ -1,19 +1,19 @@
 {
-  "name": "seed-element",
-  "version": "0.0.0",
+  "name": "x-sarcasm",
+  "version": "0.0.1",
   "authors": [
-    "Anonymous <anonymous@example.com>"
+    "Karan Goel <karan@goel.io>"
   ],
-  "description": "Element providing solution to no problem in particular.",
+  "description": "<sarcasm></sarcasm>.",
   "keywords": [
     "web-component",
     "web-components",
     "polymer",
-    "seed"
+    "sarcasm"
   ],
-  "main": "seed-element.html",
+  "main": "x-sarcasm.html",
   "license": "MIT",
-  "homepage": "https://github.com/<USERNAME>/seed-element/",
+  "homepage": "https://github.com/karan/x-sarcasm/",
   "ignore": [
     "/.*",
     "/tests/"
