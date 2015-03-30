@@ -3,20 +3,14 @@
 
 \<sarcasm\>\</sarcasm\>
 
-| [Documentation](http://karan.github.io/x-sarcasm/) | [Live demo](http://karan.github.io/x-sarcasm/components/x-sarcasm/demo.html) |
-| --- | --- |
+| [Live Demo](http://karan.goel.io/x-sarcasm/demo.html) |
+| --- |
 
 ## Examples
 
     <x-sarcasm>Hello x-sarcasm</x-sarcasm>
 
 ## Install
-
-### Method 1 - bower
-
-    bower install x-sarcasm
-
-### Method 2 - Polymer
 
 1. Polyfill Web Components support for older browsers:
 
