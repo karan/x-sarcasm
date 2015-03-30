@@ -1,10 +1,10 @@
 {
   "name": "x-sarcasm",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "authors": [
     "Karan Goel <karan@goel.io>"
   ],
-  "description": "<sarcasm></sarcasm>",
+  "description": "<x-sarcasm></x-sarcasm>",
   "keywords": [
     "web-component",
     "web-components",
