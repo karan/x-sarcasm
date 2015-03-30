@@ -4,7 +4,7 @@
   "authors": [
     "Karan Goel <karan@goel.io>"
   ],
-  "description": "<sarcasm></sarcasm>.",
+  "description": "<sarcasm></sarcasm>",
   "keywords": [
     "web-component",
     "web-components",
@@ -16,12 +16,8 @@
   "homepage": "https://github.com/karan/x-sarcasm/",
   "ignore": [
     "/.*",
-    "/tests/"
   ],
   "dependencies": {
     "polymer": "Polymer/polymer#^0.5.4"
-  },
-  "devDependencies": {
-    "web-component-tester": "*"
   }
 }

@@ -1,0 +1,46 @@
+<link rel="import" href="bower_components/polymer/polymer.html">
+
+<!--
+<sarcasm></sarcasm>
+
+##### Example
+
+    <x-sarcasm></x-sarcasm>
+
+@element x-sarcasm
+@blurb <sarcasm></sarcasm>
+@status alpha
+@homepage http://karan.github.io/x-sarcasm
+-->
+<polymer-element name="x-sarcasm">
+
+  <template>
+
+    <style>
+      :host {
+        display: block;
+        color: red;
+        font-style: italic;
+        font-weight: bold;
+        font-size: 163.7%;
+      }
+
+    </style>
+
+    <content id="sarcasm">{{text}}</content>
+
+  </template>
+
+  <script>
+
+    Polymer({
+
+      created: function() {
+        this.text = this.innerText;
+      }
+
+    });
+
+  </script>
+
+</polymer-element>
