@@ -43,3 +43,7 @@
   ```xml
   <x-sarcasm>Hello World</x-sarcasm>
   ```
+
+### License
+
+MIT
